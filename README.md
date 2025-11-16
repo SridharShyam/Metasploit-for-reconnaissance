@@ -1,7 +1,4 @@
-# Metasploit-for-reconnaissance
-# Metasploit
-Metasploit for reconnaissance in pentesting
-
+# Exp - 05: Metasploit for reconnaissance
 #### Name: SHYAM S
 #### Reg.No: 212223240156
 
